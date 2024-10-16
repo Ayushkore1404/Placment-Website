@@ -215,7 +215,8 @@ ul.admenus li a.hoverover {
 }
 
 ul.admenus ul {
-  position: absolute;
+  position: absolute; 
+  
   display: none;
   top: 100%;
   border: 1px solid #ccc;
@@ -381,7 +382,7 @@ ul.adajaxmenu .menuArrow {
 }
 
 #adajaxmenu {
-  background: #6238cd;
+  background: linear-gradient(90deg, #6238cd, #3a9ade);
   height: 50px;
   width: 100%;
   position: relative;
